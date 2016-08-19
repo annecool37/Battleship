@@ -9,6 +9,5 @@ This repository contains java codes that build a simple version of the classic g
 - Battleship, Cruiser, Destroyer, Submarine: Classes that extend from the Ship class and create ships in four different lengths
 
 ### Unit Tests
-- BattleshipGameTest: Test code for testing the BattleshipGame
-- OceanTest: Test code for testing the Ocean
-- ShipTest: Test code for testing the Ship
+- BattleshipGameTest, OceanTest, ShipTest: Test codes for testing the BattleshipGame, Ocean, and Ship respectively 
+
